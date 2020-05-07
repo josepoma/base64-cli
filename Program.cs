@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using CommandLine;
-using base64_cli.Parser;
 
 namespace base64_cli
 {
