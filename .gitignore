@@ -289,3 +289,4 @@ __pycache__/
 
 # Do not include migration backups created by dotnet try-convert tool
 MigrationBackup/
+*.old
